@@ -1,0 +1,9 @@
+21:26:47.998 INFO  [main] - Server accepting connections on tcp://25.77.178.241:3035/
+21:26:47.999 INFO  [main] - JNDI service accepting connections on tcp://25.77.178.241:3035/
+21:26:48.000 INFO  [main] - Admin service accepting connections on tcp://25.77.178.241:3035/
+22:53:48.504 INFO  [main] - Server accepting connections on tcp://25.77.178.241:3035/
+22:53:48.505 INFO  [main] - JNDI service accepting connections on tcp://25.77.178.241:3035/
+22:53:48.506 INFO  [main] - Admin service accepting connections on tcp://25.77.178.241:3035/
+22:53:53.108 INFO  [main] - Server accepting connections on rmi://25.77.178.241:1099/
+22:53:53.109 INFO  [main] - JNDI service accepting connections on rmi://25.77.178.241:1099/
+22:53:53.109 INFO  [main] - Admin service accepting connections on rmi://25.77.178.241:1099/
